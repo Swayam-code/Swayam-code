@@ -17,7 +17,7 @@
 
 - 🛠️ **Software Engineering Intern @ Confluent** — building Go-based Kubernetes controllers and event-driven systems on Kafka & Flink.
 - 🎓 **B.Tech, NIT Rourkela** (2022–2026), GPA 8.00.
-- 🌐 Focused on **distributed systems, cloud infrastructure, and developer platforms**, with a growing interest in algorithmic trading and transitioning into a Quant Developer role.
+- 🌐 Focused on **distributed systems, cloud infrastructure, and developer platforms**, with a growing interest in algorithmic trading and transitioning into a Developer role.
 - 💼 Two GitHubs: [`@Swayam-code`](https://github.com/Swayam-code) (personal/OSS) · [`@swkar-conf`](https://github.com/swkar-conf) (work @ Confluent).
 - 🧠 Competitive programmer: CodeChef ★4 · LeetCode Knight · Codeforces Specialist. Always down for a hackathon with Team Kryos!
 - ⚡ Fun fact: I tinker with technical indicators for data-driven decisions in my spare time.
