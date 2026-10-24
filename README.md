@@ -22,16 +22,6 @@
 - 🧠 Competitive programmer: CodeChef ★4 · LeetCode Knight · Codeforces Specialist. Always down for a hackathon with Team Kryos!
 - ⚡ Fun fact: I tinker with technical indicators for data-driven decisions in my spare time.
 
----
-
-### 🚀 What I'm Building
-
-- **K8s lifecycle controllers in Go** — automating idle cluster decommissioning across AWS / Azure / GCP (targeting $100K+ annual savings).
-- **Event-driven stock exchange** — 6 microservices on Confluent Cloud with Flink + Kafka, exactly-once semantics, sub-second matching.
-- **Identity hardening** — migrating from static GCP keys to Workload Identity Federation; enforcing Azure AD-only auth on AKS.
-
----
-
 ### 🧰 Tech Stack
 
 **Languages**<br>
@@ -63,15 +53,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Stack | Highlights | Links |
-|---|---|---|---|
-| **AI-Powered Grading Platform** | Node.js · Next.js · MongoDB · TensorFlow | Plagiarism detection (90%+ acc) · cut grading turnaround 60% · 150+ users | [GitHub](#https://github.com/shadan1234/team-amigos) · [Live](#https://ai-grading-platform.vercel.app/) |
-| **Automated LegalTech Platform** | Express · MongoDB · Gemini API | AI legal summarization · ODR workflows · 1,000+ users | [GitHub](#https://github.com/Swayam-code/Case-Pilot-Amigos) · [Live](#https://teamamigos-wehack.vercel.app/) |
 
 ---
 
