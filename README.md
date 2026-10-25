@@ -19,16 +19,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About me
 
-- 🛠️ **Software Engineer @ Confluent** — building Go-based Kubernetes controllers and event-driven systems on Kafka & Flink.
-- 🎓 **B.Tech, NIT Rourkela** (2022–2026), GPA 8.00.
-- 🌐 Focused on **distributed systems, cloud infrastructure, and developer platforms**, with a growing interest in algorithmic trading.
-- 💼 Two GitHubs: [`@Swayam-code`](https://github.com/Swayam-code) (personal/OSS) · [`@swkar-conf`](https://github.com/swkar-conf) (work @ Confluent).
-- 🧠 Competitive programmer: CodeChef ★4 · LeetCode Knight · Codeforces Specialist. Always down for a hackathon with Team Kryos!
-- ⚡ Fun fact: I tinker with technical indicators for data-driven decisions in my spare time.
+Some of my code deletes infrastructure. Most of the work went into making sure it only deletes the right things.
 
-### 🧰 Tech Stack
+I’m **Swayam Prakash Kar**, a **Software Engineer at Confluent** and an **NIT Rourkela ’26** graduate. During my internship, I took a Go-based Kubernetes cleanup system from an empty repository to production and helped move a service from static cloud credentials to short-lived ones. My interests sit around distributed systems, cloud infrastructure, and developer tools.
+
+Previously at **VENQ**, I built web and admin tools and integrated Notion and Gemini into a blog workflow. Outside work, I build [CloudMisScan](https://this-is-swayam.vercel.app/projects/cloudmisscan), collaborate on projects like [GradePro](https://this-is-swayam.vercel.app/projects/ai-grading-platform) and [CasePilot](https://this-is-swayam.vercel.app/projects/case-pilot), and [write about what I learn](https://this-is-swayam.vercel.app/writing). I also enjoy programming contests, hackathons with Team Kryos, and exploring algorithmic trading.
+
+- **Competitive programming:** CodeChef **5-Star** (max **2015**) · LeetCode **Guardian** (max **2227**) · Codeforces **Specialist** (max **1422**).
+- **Two GitHubs:** [`@Swayam-code`](https://github.com/Swayam-code) for personal projects and open source; [`@swkar-conf`](https://github.com/swkar-conf) for work at Confluent.
+
+### Tech stack
 
 **Languages**<br>
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -62,17 +64,17 @@
 
 ---
 
-### 🏆 Highlights
+### Highlights
 
-- 🥇 **Meta Hacker Cup 2025** — Global Rank **1,866** (top 2K, advanced to Round 2)
-- 🏅 **Smart India Hackathon 2024** — Grand Finalist (PS 1760, top of 100K+ teams)
-- 💡 **Flipkart GRiD 6.0** — Top 500 of 484K participants
-- 🧩 LeetCode contest peak rank **62**; CodeChef peak rank **24**
-- 🌱 10+ OSS contributions via GSSoC & SSoC 2024
+- **Meta Hacker Cup 2025** — Global Rank **1,866** (top 2K, advanced to Round 2)
+- **Smart India Hackathon 2024** — Grand Finalist (PS 1760, top of 100K+ teams)
+- **Flipkart GRiD 6.0** — Top 500 of 484K participants
+- LeetCode contest peak rank **62**; CodeChef peak rank **24**
+- 10+ OSS contributions via GSSoC & SSoC 2024
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Swayam-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
