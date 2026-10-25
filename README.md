@@ -1,13 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=48&amp;duration=2200&amp;pause=1000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=76&amp;repeat=true&amp;lines=hello%2C+I%27m+Swayam+Prakash+Kar" />
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=48&amp;duration=2200&amp;pause=1000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=76&amp;repeat=true&amp;lines=hello%2C+I%27m+Swayam+Prakash+Kar" alt="Hello, I'm Swayam Prakash Kar" width="620" height="76" />
-</picture>
-
-**Software Engineer at Confluent · NIT Rourkela ’26**
-
-Building systems. Writing down what I learn.
+<img src="./assets/profile-intro.svg" width="800" height="228" alt="Hello, I’m Swayam Prakash Kar. Software Engineer at Confluent · NIT Rourkela ’26. Building systems. Writing down what I learn." />
 
 <a href="https://this-is-swayam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/swayam-prakash-kar/"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square" alt="LinkedIn" /></a>
