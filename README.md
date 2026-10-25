@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=48&amp;duration=2200&amp;pause=1000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=76&amp;repeat=false&amp;lines=hello%2C+I%27m+Swayam+Prakash+Kar" />
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=48&amp;duration=2200&amp;pause=1000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=76&amp;repeat=false&amp;lines=hello%2C+I%27m+Swayam+Prakash+Kar" alt="Hello, I'm Swayam Prakash Kar" width="620" height="76" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=48&amp;duration=2200&amp;pause=1000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=76&amp;repeat=true&amp;lines=hello%2C+I%27m+Swayam+Prakash+Kar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=48&amp;duration=2200&amp;pause=1000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=76&amp;repeat=true&amp;lines=hello%2C+I%27m+Swayam+Prakash+Kar" alt="Hello, I'm Swayam Prakash Kar" width="620" height="76" />
 </picture>
 
 **Software Engineer at Confluent · NIT Rourkela ’26**
