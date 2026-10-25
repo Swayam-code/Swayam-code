@@ -1,78 +1,45 @@
-<h1 align="center">Hi, I'm Swayam Prakash Kar 👋</h1>
-<h3 align="center">Software Engineer · Distributed Systems · Backend & Cloud Infra</h3>
-<p align="center"><a href="https://this-is-swayam.vercel.app/">Portfolio, projects, writing, and résumé</a></p>
+# Swayam Prakash Kar
 
-<p align="center">
-  <a href="https://linkedin.com/in/swayam-prakash-kar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:swayam.imo001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Swayam-code"><img src="https://img.shields.io/badge/Personal_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Personal GitHub"/></a>
-  <a href="https://github.com/swkar-conf"><img src="https://img.shields.io/badge/Work_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Work GitHub"/></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swayam-code&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+**Software Engineer at Confluent · Backend & Cloud Infrastructure · Applied AI**
 
----
+I’m based in Bengaluru, India. I work with backend systems, cloud infrastructure, and real-time data, and build full-stack and AI-powered applications.
 
-### 👨‍💻 About Me
+[Portfolio & résumé](https://this-is-swayam.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/swayam-prakash-kar/) · [Writing](https://this-is-swayam.vercel.app/writing) · [Email](mailto:swayam.imo001@gmail.com)
 
-- 🛠️ **Software Engineer @ Confluent** — building Go-based Kubernetes controllers and event-driven systems on Kafka & Flink.
-- 🎓 **B.Tech, NIT Rourkela** (2022–2026), GPA 8.00.
-- 🌐 Focused on **distributed systems, cloud infrastructure, and developer platforms**, with a growing interest in algorithmic trading.
-- 💼 Two GitHubs: [`@Swayam-code`](https://github.com/Swayam-code) (personal/OSS) · [`@swkar-conf`](https://github.com/swkar-conf) (work @ Confluent).
-- 🧠 Competitive programmer: CodeChef ★4 · LeetCode Knight · Codeforces Specialist. Always down for a hackathon with Team Kryos!
-- ⚡ Fun fact: I tinker with technical indicators for data-driven decisions in my spare time.
+## Work
 
-### 🧰 Tech Stack
+- **Confluent — Software Engineer:** Python, Java, Apache Kafka, Apache Flink, and ksqlDB. During my earlier internship, I took an infrastructure cleanup system from an empty repository to production with Go and Kubernetes, and helped migrate a service from static cloud credentials to short-lived credentials.
+- **VENQ — SDE Intern:** Rebuilt website and admin tools with React, Node.js, and MongoDB. Integrated the Notion API and Gemini API into a blog workflow for content parsing, table-of-contents generation, and SEO metadata.
+- **Open source:** Contributions through GirlScript Summer of Code, Social Summer of Code, and Social Winter of Code.
 
-**Languages**<br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+## Selected projects
 
-**Cloud & Infrastructure**<br>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+| Project | What it does | My role | Explore |
+| --- | --- | --- | --- |
+| **CloudMisScan** | AWS configuration scanner with Python, FastAPI, Boto3, SQLAlchemy, and Next.js. Checks resources such as S3 buckets, IAM policies, and security groups. | Personal project | [Source](https://github.com/Swayam-code/Project-CloudMisScan) · [Overview](https://this-is-swayam.vercel.app/projects/cloudmisscan) |
+| **GradePro — AI Grading Platform** | Team-built assignment platform exploring AI-assisted grading, with student, TA, and faculty workflows, document uploads, grading, feedback, and analytics. | Team contributor | [Source](https://github.com/Jasharaj/AI-Grading-Platform) · [Overview](https://this-is-swayam.vercel.app/projects/ai-grading-platform) |
+| **CasePilot** | Legal case management across web and mobile, built collaboratively with frontend, backend, and mobile contributors. | Project lead | [Source](https://github.com/Swayam-code/Case-Pilot-Amigos) · [Overview](https://this-is-swayam.vercel.app/projects/case-pilot) |
 
-**Streaming & Data**<br>
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+My applied AI experience is in integrating models into product workflows. I bring backend and full-stack fundamentals—APIs, authentication, databases, and web interfaces—to that work.
 
-**Web**<br>
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+## Technologies I use
 
----
+- **Languages:** Go, Python, Java, C++, TypeScript, JavaScript, SQL
+- **Backend & web:** FastAPI, Node.js, Express.js, React, Next.js, Tailwind CSS
+- **Streaming & data:** Apache Kafka, Apache Flink, ksqlDB, PostgreSQL, MySQL, MongoDB
+- **Cloud & infrastructure:** Kubernetes, Docker, AWS, Amazon EKS, Azure AKS, Google GKE
+- **AI integration:** Gemini API, generative AI application workflows
 
-### 🏆 Highlights
+## Writing
 
-- 🥇 **Meta Hacker Cup 2025** — Global Rank **1,866** (top 2K, advanced to Round 2)
-- 🏅 **Smart India Hackathon 2024** — Grand Finalist (PS 1760, top of 100K+ teams)
-- 💡 **Flipkart GRiD 6.0** — Top 500 of 484K participants
-- 🧩 LeetCode contest peak rank **62**; CodeChef peak rank **24**
-- 🌱 10+ OSS contributions via GSSoC & SSoC 2024
+- [I Automated Deleting Our Infrastructure. Here’s Everything That I Learnt.](https://medium.com/@swayam.imo001/i-automated-deleting-our-infrastructure-heres-everything-that-i-learnt-c8efbb9bd953)
+- [How We Built a Real-Time Stock Exchange with Kafka and Flink](https://medium.com/p/how-we-built-a-real-time-stock-exchange-with-an-event-driven-architecture-on-kafka-and-flink-51e5902fdc6c)
 
----
+## Highlights
 
-### 📊 GitHub Stats
+- Smart India Hackathon 2024 — Grand Finalist
+- Meta Hacker Cup 2025 — Round 2, global rank 1,866
+- CodeChef 5-Star · LeetCode Guardian · Codeforces Specialist
+- B.Tech, National Institute of Technology Rourkela, 2022–2026
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Swayam-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayam-code&theme=tokyonight&hide_border=true" />
-</p>
+Personal projects and open source live here. My work GitHub is [@swkar-conf](https://github.com/swkar-conf).
